@@ -2,11 +2,10 @@
 
 **Learning goals**
 
-* Mastery of basic pythonic skills:
+* More problems in dynamic programming.
 
-  * lists, Numpy arrays, control flow (loops), functions, dictionaries, data visualization, simulation
+* Writing and communication of technical work to readers. Emphasis on readable writing with clear economic insights.
 
-* Ability to put skills to use in analyzing a well-studied growth model
+* Mastery of basic pythonic skills and application to stochastic DP.
 
-* Writing and communication of technical work to readers
  
